@@ -5,7 +5,7 @@
 3. npm start
 
 
-###If prerequisites are not intalled use npm -i
+### If prerequisites are not intalled use npm -i
 Create a config json file and paste the scrypt down below in order to get it working.
 
 Have fun.
